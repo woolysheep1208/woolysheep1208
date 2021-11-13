@@ -8,8 +8,8 @@
 using namespace std;
 
 int main() {
-  bool stupid = true;
-  while(stupid) {
+  bool smart = false;
+  while(!smart) {
     cout << "I agree with you";
 }
 ```
