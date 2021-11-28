@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shepo.
 - 👀 I’m interested in losing my mind.
-- 🌱 I’m currently learning how to fail every Codeforces question.
+- 🌱 I’m currently learning how to fail every coding question.
 - 📫 How to reach me ... Discord: Sheepy#1208
 
 ```cpp
