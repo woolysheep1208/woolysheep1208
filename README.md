@@ -8,8 +8,7 @@
 using namespace std;
 
 int main() {
-    int social_credit;
-    cin >> social_credit;
+    int social_credit = 1000;
     while(true) {
         cout << "Your social credit is: " << social_credit << endl;
         social_credit--;
