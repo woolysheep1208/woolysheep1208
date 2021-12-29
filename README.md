@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shepo.
 - 👀 I’m interested in losing my mind.
 - 🌱 I’m currently learning up my social credit.
-- 📫 How to reach me ... Discord: Sheepy#1208
+- 📫 How to reach me ... Discord: Sheepy#1044
 
 ```cpp
 #include <bits/stdc++.h>
